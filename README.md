@@ -1,6 +1,6 @@
 **Hi, I’m Nathan**
 - 💻 I’m interested in software engineering and computer security.
-- 🇨🇭 I’m currently doing my Master in Cybersecurity @EPFL & @ETHZ.
+- 🇨🇭 Cybersecurity Master's @EPFL & @ETHZ | Computer Science Bachelor's @EPFL.
 - 🌎 I speak 🇺🇸,🇫🇷,🇩🇪.
 
 <!---

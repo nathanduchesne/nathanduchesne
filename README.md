@@ -1,5 +1,6 @@
-**Hi, I’m Nathan**
-- 💻 I’m interested in software engineering and computer security.
+**Hi, I’m Nate**
+- 🥄 **SWE @ BendingSpoons**
+- 💻 SWE | CompSec
 - 🇨🇭 Cybersecurity Master's @EPFL & @ETHZ | Computer Science Bachelor's @EPFL.
 - 🌎 I speak 🇺🇸,🇫🇷,🇩🇪.
 
